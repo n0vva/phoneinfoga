@@ -4,8 +4,7 @@ Now, put in docker run -it sundowndev/phoneinfoga scan -n (put ur phone number h
 You should get your results.
 to make it easier on your eyes put docker run -it -p 8080:8080 sundowndev/phoneinfoga serve -p 8080
 Now, on the top right of the terminal click web preview, click on preview on port 8080
-There you go have fun with it hackers.
-
+There you go have fun with it
 
 
 
